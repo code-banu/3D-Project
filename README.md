@@ -1,12 +1,12 @@
 # 3D-Project
 **Transform3D**
-![gym site](https://github.com/user-attachments/assets/850d57b3-3cee-4157-be2a-7a5adb555103)
+![trick1](https://github.com/user-attachments/assets/2396ee58-df20-4613-aac5-7ee7ed0d0bf6)
 
 - [Demo Project]( https://code-banu.github.io/3D-Project/)
 
 - Developed by Raheleh Banam
 
-- Created - 2024-10-25
+- Created - 2024-10-30
 
 - Technologies Used - Html , css 
 
