@@ -2,7 +2,7 @@
 **Transform3D**
 ![gym site](https://github.com/user-attachments/assets/850d57b3-3cee-4157-be2a-7a5adb555103)
 
-- [Demo Project](https://code-banu.github.io/Gym-website/)
+- [Demo Project]( https://code-banu.github.io/3D-Project/)
 
 - Developed by Raheleh Banam
 
